@@ -1,3 +1,6 @@
 torch
 torchvision
 brevitas
+onnx
+onnxoptimizer
+onnxscript
